@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222467416087",
+    "project_id": "home-care-learn",
+    "storage_bucket": "home-care-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222467416087:android:7bdc1cdcf71b82530d7c52",
+        "android_client_info": {
+          "package_name": "com.mycompany.homecarelearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBumUzmz_ayLKV-I4U0TJgNWtQ8-IdXW84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
